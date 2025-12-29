@@ -1,4 +1,4 @@
-git clone https://github.com/Not-Insaan-xxd/vps-deploy
+git clone https://github.com/InsaanXD/vps-deploy
 
 cd vps-deploy
 
